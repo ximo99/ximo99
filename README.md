@@ -1,3 +1,3 @@
-### Hi there 👋 I am Ximo!
+### Hi there 👋 I am Ximo! 👨🏻‍💻
 
-👨🏻‍💻 I am junior developer. Check out my content 👇!
+I am junior developer. Check out my content 👇!
